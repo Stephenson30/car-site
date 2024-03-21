@@ -1,0 +1,88 @@
+.lastsection {
+    background-color: #111111;
+}
+
+.lastsection h3 {
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35.94px;
+    /* 179.7% */
+  }
+  
+  .lastsection h1 {
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 39.8px;
+    /* 124.375% */
+    letter-spacing: 0.25px;
+  }
+  
+  .lastsection .contact {
+    max-width: 280px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  /* .aboutclip {
+    background-image: url('/bg2.mp4');
+  } */
+  .lastsection .p {
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 22.4px;
+    /* 140% */
+    letter-spacing: 0.15px;
+  }
+  
+  .lastsection .about {
+    padding: 1rem 2rem;
+  }
+  
+  .lastsection .emailus {
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 39.8px;
+    /* 165.833% */
+    letter-spacing: 0.25px;
+  }
+  
+  .lastsection .emailus>span {
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 39.8px;
+    /* 124.375% */
+    letter-spacing: 0.25px;
+  }
+  
+  .lastsection hr {
+    margin: 2rem 0;
+  }
+  
+  .lastsection .llc {
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: .9rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0 2rem 1rem;
+    /* 187.5% */
+    letter-spacing: 0.5px;
+  }

@@ -1,0 +1,67 @@
+.bg-video {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0 0 3rem;
+}
+
+.video-container {
+    background: #1D201F;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.bg-video h1 {
+    color: #FFF;
+    font-family: "Plus Jakarta Sans";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 75px;
+    letter-spacing: -1.65px;
+    width: 384px;
+    /* width: 100%; */
+    margin: 0 auto;
+    padding: 6rem .5rem 5rem;
+    z-index: -1;
+    position: relative;
+}
+
+ .about > h1{
+    width: 100%;
+    font-size: 1.8rem;
+    padding: 2rem 1rem .5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.about > h4 {
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: 200;
+    padding: 0 1rem 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: orangered;
+} 
+
+.writeup{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2rem;
+    font-size: 1rem;
+}
+
+@media (min-width: 700px) {
+    .bg-video h1 {
+        padding-left: 1.5rem;
+    }
+}

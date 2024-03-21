@@ -1,0 +1,70 @@
+.featured {
+    padding: 2.5rem 1.5rem;
+    width: 100%;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+    padding: 0;
+    margin: 0;
+
+}
+
+.featured h1 {
+    width: 100%;
+    font-size: 1.8rem;
+    /* border: 1px solid red; */
+    /* text-align: center; */
+    padding: 2rem 1rem .5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.featured h4 {
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: 200;
+    /* border: 1px solid red; */
+    /* text-align: center; */
+    padding: 0 1rem 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: orangered;
+}
+
+.cardiv {
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 0;
+    gap: 1rem;
+    width: 100%;
+}
+
+.cardiv>div {
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: .5rem;
+    width: 100%;
+}
+
+.cardiv details {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cardiv details summary {
+    color: orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 1.1rem;
+    /* width: 300px; */
+    font-size: 1rem;
+    cursor: pointer;
+}
+.cardiv details p{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0 2rem;
+    font-size: .9rem;
+}
